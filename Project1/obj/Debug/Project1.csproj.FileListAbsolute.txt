@@ -1,0 +1,10 @@
+C:\Users\Oren\Desktop\לימודים\C#\C20 Ex05 ErezHasson 318320702 MeidanLevy 313359069\Project1\bin\Debug\Project1.dll
+C:\Users\Oren\Desktop\לימודים\C#\C20 Ex05 ErezHasson 318320702 MeidanLevy 313359069\Project1\bin\Debug\Project1.pdb
+C:\Users\Oren\Desktop\לימודים\C#\C20 Ex05 ErezHasson 318320702 MeidanLevy 313359069\Project1\obj\Debug\Project1.csprojAssemblyReference.cache
+C:\Users\Oren\Desktop\לימודים\C#\C20 Ex05 ErezHasson 318320702 MeidanLevy 313359069\Project1\obj\Debug\Project1.DamkaWindow.resources
+C:\Users\Oren\Desktop\לימודים\C#\C20 Ex05 ErezHasson 318320702 MeidanLevy 313359069\Project1\obj\Debug\Project1.GameSettings.resources
+C:\Users\Oren\Desktop\לימודים\C#\C20 Ex05 ErezHasson 318320702 MeidanLevy 313359069\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Users\Oren\Desktop\לימודים\C#\C20 Ex05 ErezHasson 318320702 MeidanLevy 313359069\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\Users\Oren\Desktop\לימודים\C#\C20 Ex05 ErezHasson 318320702 MeidanLevy 313359069\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\Oren\Desktop\לימודים\C#\C20 Ex05 ErezHasson 318320702 MeidanLevy 313359069\Project1\obj\Debug\Project1.dll
+C:\Users\Oren\Desktop\לימודים\C#\C20 Ex05 ErezHasson 318320702 MeidanLevy 313359069\Project1\obj\Debug\Project1.pdb

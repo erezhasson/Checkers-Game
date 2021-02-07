@@ -1,0 +1,9 @@
+C:\Users\Oren\Desktop\לימודים\C#\C20 Ex05 ErezHasson 318320702 MeidanLevy 313359069\DamkaGame\bin\Debug\DamkaGame.exe
+C:\Users\Oren\Desktop\לימודים\C#\C20 Ex05 ErezHasson 318320702 MeidanLevy 313359069\DamkaGame\bin\Debug\DamkaGame.pdb
+C:\Users\Oren\Desktop\לימודים\C#\C20 Ex05 ErezHasson 318320702 MeidanLevy 313359069\DamkaGame\bin\Debug\Project1.dll
+C:\Users\Oren\Desktop\לימודים\C#\C20 Ex05 ErezHasson 318320702 MeidanLevy 313359069\DamkaGame\bin\Debug\Project1.pdb
+C:\Users\Oren\Desktop\לימודים\C#\C20 Ex05 ErezHasson 318320702 MeidanLevy 313359069\DamkaGame\obj\Debug\DamkaGame.csprojAssemblyReference.cache
+C:\Users\Oren\Desktop\לימודים\C#\C20 Ex05 ErezHasson 318320702 MeidanLevy 313359069\DamkaGame\obj\Debug\DamkaGame.csproj.CoreCompileInputs.cache
+C:\Users\Oren\Desktop\לימודים\C#\C20 Ex05 ErezHasson 318320702 MeidanLevy 313359069\DamkaGame\obj\Debug\DamkaGame.csproj.CopyComplete
+C:\Users\Oren\Desktop\לימודים\C#\C20 Ex05 ErezHasson 318320702 MeidanLevy 313359069\DamkaGame\obj\Debug\DamkaGame.exe
+C:\Users\Oren\Desktop\לימודים\C#\C20 Ex05 ErezHasson 318320702 MeidanLevy 313359069\DamkaGame\obj\Debug\DamkaGame.pdb
